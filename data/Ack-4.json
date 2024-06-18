@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "Ack",
+  "risk": "2",
+  "title": "Natspec indicates `ILOPool#positions(uint256 tokenId)` will revert on invalid tokenId but it will not",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/4"
+}
