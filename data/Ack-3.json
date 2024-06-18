@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "Ack",
+  "risk": "2",
+  "title": "Attacker can DoS ILO Creation",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/3"
+}
