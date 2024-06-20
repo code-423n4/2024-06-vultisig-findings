@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "zaevlad",
+  "risk": "2",
+  "title": "Project admins can be frontruned by a malicious user when creating a new ILOPool",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/8"
+}
