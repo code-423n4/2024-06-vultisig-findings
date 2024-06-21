@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "LuarSec",
+  "risk": "2",
+  "title": "Use of `slot0` allows for `sqrtPriceX96` price manipulation.",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/53"
+}
