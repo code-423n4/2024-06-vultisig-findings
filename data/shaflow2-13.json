@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "shaflow2",
+  "risk": "2",
+  "title": "_IsSelfWhitelistDisabled defaults to false, and users may get the whitelist first",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/13"
+}
