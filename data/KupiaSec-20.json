@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "KupiaSec",
+  "risk": "3",
+  "title": "`DoS` on the launch due to a strict slippage check when adding liquidity to the Uniswap V3 pool.",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/20"
+}
