@@ -53,3 +53,4 @@ The contract owners have the ability to lock all funds, change key parameters, c
 # QA-5 Unecessary oracle check
 The `Whitelist#checkWhitelist` function could get the amount of RAISE_TOKEN contributed from the ILOPool directly, rather than the current oracle check + slippage calculation, which is slightly awkward and inherently inaccurate.
 
+# QA-6 Current whitelist would block large buys in the pool (>3Eth), but would allow large sells (impacts token price)
