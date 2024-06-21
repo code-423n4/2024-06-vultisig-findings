@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "juancito",
+  "risk": "3",
+  "title": "Sandwich attacks in claim() due to missing slippage check",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/39"
+}
