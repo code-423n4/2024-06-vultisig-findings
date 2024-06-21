@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "KupiaSec",
+  "risk": "2",
+  "title": "The `ILOManager.initProject` function can be frontrun",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/23"
+}
