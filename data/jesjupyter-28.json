@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "jesjupyter",
+  "risk": "2",
+  "title": "When `_vultisig` or `_pool` is reset, the `_contributed` is no way to clear",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/28"
+}
