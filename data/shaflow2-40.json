@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "shaflow2",
+  "risk": "2",
+  "title": "Incorrect platformFee calculation for claim function",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/40"
+}
