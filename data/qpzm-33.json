@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "qpzm",
+  "risk": "2",
+  "title": "The price range configuration is flawed in `ILOManager.initILOPool`.",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/33"
+}
