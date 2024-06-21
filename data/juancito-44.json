@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "juancito",
+  "risk": "3",
+  "title": "ILO Pool launches will always fail when initialized with tick values not divisible by the tick-spacing for the Uniswap pool",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/44"
+}
