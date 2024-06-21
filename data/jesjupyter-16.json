@@ -1,0 +1,8 @@
+{
+  "contest": 393,
+  "handle": "jesjupyter",
+  "risk": "2",
+  "title": "Lack of `unchecked` for `Uniswapv0.8` libarary",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/16"
+}
