@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "kennedy1030",
+  "risk": "3",
+  "title": "Invalid check in WhiteList.checkWhitelist().",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/121",
+  "originalIssueId": 438,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/438"
+}
