@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "0xrugpull_detector",
+  "risk": "2",
+  "title": "DOS Attacker can frontrun `ILOManager.launch()` to make it revert with swap because of strict equality check of spot price.",
+  "issueId": 161,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/161",
+  "originalIssueId": 235,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/235"
+}
