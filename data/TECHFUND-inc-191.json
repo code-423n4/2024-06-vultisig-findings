@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "TECHFUND-inc",
+  "risk": "2",
+  "title": "Newly created project with new uni-swap pool could fail on launch",
+  "issueId": 191,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/191",
+  "originalIssueId": 62,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/62"
+}
