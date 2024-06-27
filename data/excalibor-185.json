@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "excalibor",
+  "risk": "2",
+  "title": "ILOPool can be blocked from ever launching",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/185",
+  "originalIssueId": 98,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/98"
+}
