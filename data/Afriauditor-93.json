@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "Afriauditor",
+  "risk": "2",
+  "title": "Incorrect Liquidity Calculation Due to Unordered Vesting Schedules in _unlockedLiquidity Function in ILOpool contract.",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/93",
+  "originalIssueId": 566,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/566"
+}
