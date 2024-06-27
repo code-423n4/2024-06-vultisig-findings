@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "bigtone",
+  "risk": "3",
+  "title": "Missing slippage/deadline checks in claim function in ILOPool",
+  "issueId": 189,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/189",
+  "originalIssueId": 68,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/68"
+}
