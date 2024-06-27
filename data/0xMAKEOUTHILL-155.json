@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "0xMAKEOUTHILL",
+  "risk": "2",
+  "title": "Whitelist doesn't work as intended",
+  "issueId": 155,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/155",
+  "originalIssueId": 253,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/253"
+}
