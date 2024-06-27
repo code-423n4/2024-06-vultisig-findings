@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "Nikki",
+  "risk": "2",
+  "title": "Incorrect whitelist validation in the `checkWhitelist` function allows non-whitelisted users to bypass whitelisting.",
+  "issueId": 134,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/134",
+  "originalIssueId": 359,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/359"
+}
