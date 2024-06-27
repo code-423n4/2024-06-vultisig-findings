@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "Chuch",
+  "risk": "2",
+  "title": "Hard-coded 5% slippage isn't optimal",
+  "issueId": 182,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/182",
+  "originalIssueId": 120,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/120"
+}
