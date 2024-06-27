@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "robertodf99",
+  "risk": "2",
+  "title": "Manual `Whitelist::allowedWhitelistedIndex` adjustment is prone to error and should be automatized",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/68",
+  "originalIssueId": 46,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/46"
+}
