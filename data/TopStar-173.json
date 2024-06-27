@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "TopStar",
+  "risk": "3",
+  "title": "Front-running pool’s initialization can lead to failed launch",
+  "issueId": 173,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/173",
+  "originalIssueId": 174,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/174"
+}
