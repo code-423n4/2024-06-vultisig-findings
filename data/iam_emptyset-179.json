@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "iam_emptyset",
+  "risk": "3",
+  "title": "DoS attack making projects unable to launch",
+  "issueId": 179,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/179",
+  "originalIssueId": 133,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/133"
+}
