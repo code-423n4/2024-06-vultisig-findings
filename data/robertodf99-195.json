@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "robertodf99",
+  "risk": "3",
+  "title": "Missing null value check allows not whilisted users to buy VULT tokens from the pool",
+  "issueId": 195,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/195",
+  "originalIssueId": 42,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/42"
+}
