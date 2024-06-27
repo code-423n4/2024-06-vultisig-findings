@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "0xR360",
+  "risk": "2",
+  "title": "Launch depends on the uniswap pool state to work. This function will fail if there's already circulating supply and people can trade",
+  "issueId": 109,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/109",
+  "originalIssueId": 515,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/515"
+}
