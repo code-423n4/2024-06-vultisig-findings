@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "Sparrow",
+  "risk": "2",
+  "title": "Vulnerability Due to Reliance on `slot0` Data for Price Fetching",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/70",
+  "originalIssueId": 684,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/684"
+}
