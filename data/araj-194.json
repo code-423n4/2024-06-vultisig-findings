@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "araj",
+  "risk": "2",
+  "title": "Investor can mint multiple nfts and vesting schedules because of wrong validation",
+  "issueId": 194,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/194",
+  "originalIssueId": 43,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/43"
+}
