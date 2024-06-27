@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "Utsav",
+  "risk": "2",
+  "title": "Full liquidity will not vest even any one vest.start is greater than block.timestamp",
+  "issueId": 150,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/150",
+  "originalIssueId": 268,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/268"
+}
