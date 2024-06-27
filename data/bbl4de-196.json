@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "bbl4de",
+  "risk": "3",
+  "title": "`checkWhitelist()` function does not revert when the checked address is not whitelisted",
+  "issueId": 196,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/196",
+  "originalIssueId": 39,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/39"
+}
