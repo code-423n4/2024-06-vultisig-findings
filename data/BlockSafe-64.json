@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "BlockSafe",
+  "risk": "2",
+  "title": "Potential Denial of Service (DoS) Due to Unbounded Loop Iteration in `launch` and `claimRefund` Functions",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/64",
+  "originalIssueId": 247,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/247"
+}
