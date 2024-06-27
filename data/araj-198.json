@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "araj",
+  "risk": "3",
+  "title": "Launch of the ILOPool can be reverted due to strict require statement",
+  "issueId": 198,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/198",
+  "originalIssueId": 35,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/35"
+}
