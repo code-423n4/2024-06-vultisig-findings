@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "0xMango",
+  "risk": "3",
+  "title": "No security checks to ensure given lower & upper ticks to be valid ticks. Leading to silent reverts while depositing liquidity on successful presales.",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/79",
+  "originalIssueId": 615,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/615"
+}
