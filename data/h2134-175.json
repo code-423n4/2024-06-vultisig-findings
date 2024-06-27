@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "h2134",
+  "risk": "2",
+  "title": "ILOPool whitelist can be easily bypassed",
+  "issueId": 175,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/175",
+  "originalIssueId": 157,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/157"
+}
