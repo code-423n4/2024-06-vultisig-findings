@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "ABAIKUNANBAEV",
+  "risk": "2",
+  "title": "Missing slippage protection for the `buy()` function",
+  "issueId": 167,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/167",
+  "originalIssueId": 205,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/205"
+}
