@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "0xMango",
+  "risk": "3",
+  "title": "Denial of service built in the ILOPool.launch function because of the likelyness of it reaching the gas limit.",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/75",
+  "originalIssueId": 653,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/653"
+}
