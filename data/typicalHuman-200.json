@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "typicalHuman",
+  "risk": "2",
+  "title": "sqrtPriceX96 can change over time affecting project initialization",
+  "issueId": 200,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/200",
+  "originalIssueId": 26,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/26"
+}
