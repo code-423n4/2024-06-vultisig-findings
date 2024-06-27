@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "atoko",
+  "risk": "2",
+  "title": "Missing Slippage Protection in Claim Function",
+  "issueId": 170,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/170",
+  "originalIssueId": 181,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/181"
+}
