@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "crypticdefense",
+  "risk": "2",
+  "title": "`ILOPool::claim` should have slippage protection",
+  "issueId": 135,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/135",
+  "originalIssueId": 339,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/339"
+}
