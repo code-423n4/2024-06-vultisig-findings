@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "Aymen0909",
+  "risk": "2",
+  "title": "Whitelisted Users Can Bypass `maxCapPerUser` in `ILOManager::buy` Function",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/123",
+  "originalIssueId": 426,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/426"
+}
