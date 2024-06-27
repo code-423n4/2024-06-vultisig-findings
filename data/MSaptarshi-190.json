@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "MSaptarshi",
+  "risk": "2",
+  "title": "Use of slot0 is easy to manipulate",
+  "issueId": 190,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/190",
+  "originalIssueId": 63,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/63"
+}
