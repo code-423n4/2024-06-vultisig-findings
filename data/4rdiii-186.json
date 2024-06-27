@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "4rdiii",
+  "risk": "3",
+  "title": "Anyone Can Purchase Without Being Whitelisted Due to Incorrect Access Control",
+  "issueId": 186,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/186",
+  "originalIssueId": 97,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/97"
+}
