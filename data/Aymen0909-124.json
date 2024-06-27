@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "Aymen0909",
+  "risk": "3",
+  "title": "Risk of DOS in `ILOManager::launch` if Some Project Pools Fail to Reach Soft Cap",
+  "issueId": 124,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/124",
+  "originalIssueId": 424,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/424"
+}
