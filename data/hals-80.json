@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "hals",
+  "risk": "2",
+  "title": "A malicious actor can DoS project launch by manipulating the project uniswap pool price `sqrtPriceX96`",
+  "issueId": 80,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/80",
+  "originalIssueId": 614,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/614"
+}
