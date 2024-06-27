@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "gajiknownnothing",
+  "risk": "3",
+  "title": "Strict Price Slippage Restriction in `launch()` Function Can Cause Transaction Reversion",
+  "issueId": 169,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/169",
+  "originalIssueId": 187,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/187"
+}
