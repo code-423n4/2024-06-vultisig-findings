@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "0xb0k0",
+  "risk": "2",
+  "title": "Transfer of ILOPool NFT token to different account allows for users to bypass the pool's `maxCapPerUser` invariant",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/58",
+  "originalIssueId": 442,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/442"
+}
