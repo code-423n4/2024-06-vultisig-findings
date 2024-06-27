@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "h2134",
+  "risk": "2",
+  "title": "maxCapPerUser should check the total raiseAmount of the positions owned by a user",
+  "issueId": 160,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/160",
+  "originalIssueId": 237,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/237"
+}
