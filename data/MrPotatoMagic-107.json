@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "MrPotatoMagic",
+  "risk": "2",
+  "title": "Function checkWhitelist() does not check if an address is whitelisted or not",
+  "issueId": 107,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/107",
+  "originalIssueId": 521,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/521"
+}
