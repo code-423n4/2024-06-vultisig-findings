@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "mansa11",
+  "risk": "3",
+  "title": "# [H-2] Attacker Can Dos `launch` by adding liquidity to deployed pools",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/71",
+  "originalIssueId": 673,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/673"
+}
