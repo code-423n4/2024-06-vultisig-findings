@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "BlockSafe",
+  "risk": "2",
+  "title": "Possible significant discrepancies in the quoted price due to hard-corded slippage Percentage in UniswapV3Oracle Contract",
+  "issueId": 174,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/174",
+  "originalIssueId": 173,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/173"
+}
