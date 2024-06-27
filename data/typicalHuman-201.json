@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "typicalHuman",
+  "risk": "2",
+  "title": "0 slippage for pool launch could lead to DoS",
+  "issueId": 201,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/201",
+  "originalIssueId": 22,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/22"
+}
