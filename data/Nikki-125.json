@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "Nikki",
+  "risk": "2",
+  "title": "User can bypass `maxCapPerUser` by transfering tokens to other accounts",
+  "issueId": 125,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/125",
+  "originalIssueId": 421,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/421"
+}
