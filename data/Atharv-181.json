@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "Atharv",
+  "risk": "2",
+  "title": "Flaw in Whitelist.sol: Unauthorized Users Can Bypass Whitelist Check and Receive Funds",
+  "issueId": 181,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/181",
+  "originalIssueId": 122,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/122"
+}
