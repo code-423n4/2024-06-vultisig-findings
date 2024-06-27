@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "c-note",
+  "risk": "3",
+  "title": "Tokens can be transferred to non-whitelisted `to` address when whitelisted contract is set in `VultisigWhitelisted` contract",
+  "issueId": 91,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/91",
+  "originalIssueId": 568,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/568"
+}
