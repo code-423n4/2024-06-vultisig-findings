@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "Bigsam",
+  "risk": "2",
+  "title": "Insufficient Whitelist Validation in `Vultisig` Token Transfer Process",
+  "issueId": 162,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/162",
+  "originalIssueId": 234,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/234"
+}
