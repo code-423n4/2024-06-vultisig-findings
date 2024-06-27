@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "yasmine",
+  "risk": "2",
+  "title": "Use of `slot0` to get `sqrtPriceLimitX96` can lead to price manipulation.",
+  "issueId": 113,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/113",
+  "originalIssueId": 492,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/492"
+}
