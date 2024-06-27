@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "nnez",
+  "risk": "2",
+  "title": "Maximum cap per user can be bypassed in a whitelist-only ILO",
+  "issueId": 183,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/183",
+  "originalIssueId": 114,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/114"
+}
