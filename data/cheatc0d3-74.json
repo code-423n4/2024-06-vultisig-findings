@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "cheatc0d3",
+  "risk": "2",
+  "title": "Insufficient Slippage Control in claim Function Causes Financial Risk for Users",
+  "issueId": 74,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/74",
+  "originalIssueId": 660,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/660"
+}
