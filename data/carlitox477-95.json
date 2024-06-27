@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "carlitox477",
+  "risk": "2",
+  "title": "Transfer of ERC721 can be used to bypasx max cap per user",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/95",
+  "originalIssueId": 558,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/558"
+}
