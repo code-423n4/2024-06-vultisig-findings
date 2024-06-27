@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "leegh",
+  "risk": "2",
+  "title": "Non-whitelist addresses could pass the whitelist check in `checkWhitelist`.",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/102",
+  "originalIssueId": 542,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/542"
+}
