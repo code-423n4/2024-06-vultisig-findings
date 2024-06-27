@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "dvrkzy",
+  "risk": "3",
+  "title": "Non-whitelisted users will still pass the whitelist check ",
+  "issueId": 171,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/171",
+  "originalIssueId": 179,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/179"
+}
