@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "GEEKS",
+  "risk": "2",
+  "title": "Malicious ILO Participants Can Use Whitelisted Address To Buy Multiple NFT Positions For Non-Whitelisted Addresses",
+  "issueId": 126,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/126",
+  "originalIssueId": 420,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/420"
+}
