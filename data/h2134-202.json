@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "h2134",
+  "risk": "2",
+  "title": "User who is not whitelisted can still buy VULT token from Uniswap pool",
+  "issueId": 202,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/202",
+  "originalIssueId": 11,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/11"
+}
