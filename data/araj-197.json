@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "araj",
+  "risk": "3",
+  "title": "Project will be unable to launch if any one of the IILOPool launch reverts",
+  "issueId": 197,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/197",
+  "originalIssueId": 36,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/36"
+}
