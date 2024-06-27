@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "Maroutis",
+  "risk": "2",
+  "title": "Malicious user can honeypot NFT buyer by claiming all vested amounts before sale",
+  "issueId": 108,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/108",
+  "originalIssueId": 519,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/519"
+}
