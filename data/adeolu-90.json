@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "adeolu",
+  "risk": "3",
+  "title": "`_initializedILOPools[uniV3PoolAddress` array can grow too large and prevent core functions  from executiing ",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/90",
+  "originalIssueId": 570,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/570"
+}
