@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "cheatc0d3",
+  "risk": "2",
+  "title": "Insufficient Slippage Control in buy Function",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/73",
+  "originalIssueId": 662,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/662"
+}
