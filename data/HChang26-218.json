@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "HChang26",
+  "risk": "3",
+  "title": "Incorrect fee distribution in `claim()`",
+  "issueId": 218,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/218",
+  "originalIssueId": 350,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/350"
+}
