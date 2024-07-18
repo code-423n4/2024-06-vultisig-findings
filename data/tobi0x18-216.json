@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "tobi0x18",
+  "risk": "3",
+  "title": "The fees for the `FEE_TAKER` are not calculated correctly in the [ILOPool.claim](https://github.com/code-423n4/2024-06-vultisig/blob/0957ff9e50441cd6de6b4f6e28c7ea93f5cffa85/src/ILOPool.sol#L184-L261) function",
+  "issueId": 216,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/216",
+  "originalIssueId": 433,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/433"
+}
