@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "chista0x",
+  "risk": "2",
+  "title": "Inconsistency in Token Burn Functionality of `Vultisig` Contract",
+  "issueId": 229,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/229",
+  "originalIssueId": 125,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/125"
+}
