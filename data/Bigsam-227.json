@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "Bigsam",
+  "risk": "3",
+  "title": "Token Claim Issue in Pool Contract: Improper Distribution Leaves Pool Empty",
+  "issueId": 227,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/227",
+  "originalIssueId": 232,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/232"
+}
