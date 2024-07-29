@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "MrPotatoMagic",
+  "risk": "2",
+  "title": "Internal _burn() function is not exposed externally in the Vultisig.sol contract",
+  "issueId": 222,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/222",
+  "originalIssueId": 462,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/462"
+}
