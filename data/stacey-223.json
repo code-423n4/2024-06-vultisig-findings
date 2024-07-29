@@ -1,0 +1,10 @@
+{
+  "contest": 393,
+  "handle": "stacey",
+  "risk": "2",
+  "title": "M-1 There is no external function `burn()` in the VULT contract",
+  "issueId": 223,
+  "issueUrl": "https://github.com/code-423n4/2024-06-vultisig-findings/issues/223",
+  "originalIssueId": 418,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-vultisig-validation/issues/418"
+}
