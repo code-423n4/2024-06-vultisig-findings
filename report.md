@@ -658,6 +658,8 @@ ERC20
 > 
 > A medium severity was assessed because the functionality is not imperative to the way the protocol works (i.e. all contracts behave "as expected" without it), and burning functionality can be replicated by f.e. transferring funds to the `0xdeaD...DEaD ` address. 
 
+**[Vultisig confirmed](https://github.com/code-423n4/2024-06-vultisig-findings/issues/224#event-13792565095)**
+
 ***
 
 ## [[M-02] `claim` function lacks slippage controls for `amount0` and `amount1` returned by `pool.burn` function call](https://github.com/code-423n4/2024-06-vultisig-findings/issues/103)
